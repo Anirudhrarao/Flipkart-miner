@@ -1,0 +1,11 @@
+numpy
+pandas
+bs4
+fastapi
+uvicorn
+python-multipart
+jinja2
+requests
+matplotlib
+wordcloud
+plotly

@@ -1,0 +1,4 @@
+urls:
+  flipkart_search: "https://www.flipkart.com/search?q="
+  flipkart_base: "https://www.flipkart.com"
+
